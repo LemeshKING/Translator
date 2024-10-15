@@ -1,0 +1,8 @@
+void main()
+{
+	int i = 9;
+	
+	int k = i + 8;
+	i+= k* k;
+	1+2;
+}

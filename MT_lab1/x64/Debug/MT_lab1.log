@@ -1,0 +1,11 @@
+﻿  Source.cpp
+F:\repos\MT_lab1\Translator\MT_lab1\translator.h(97,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+F:\repos\MT_lab1\Translator\MT_lab1\translator.h(102,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  translator.cpp
+F:\repos\MT_lab1\Translator\MT_lab1\translator.h(97,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+F:\repos\MT_lab1\Translator\MT_lab1\translator.h(102,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+F:\repos\MT_lab1\Translator\MT_lab1\translator.cpp(322,38): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+F:\repos\MT_lab1\Translator\MT_lab1\translator.cpp(328,47): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  LINK : не найден или не выполнена сборка F:\repos\MT_lab1\Translator\x64\Debug\MT_lab1.exe при последней инкрементной компоновке; выполняется полная компоновка
+  MT_lab1.vcxproj -> F:\repos\MT_lab1\Translator\x64\Debug\MT_lab1.exe

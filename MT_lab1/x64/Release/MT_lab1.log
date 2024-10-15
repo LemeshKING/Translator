@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\LemeshK1nG\source\repos\MT_lab1\MT_lab1\translator.h(96,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\LemeshK1nG\source\repos\MT_lab1\MT_lab1\translator.h(101,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  translator.cpp
+C:\Users\LemeshK1nG\source\repos\MT_lab1\MT_lab1\translator.h(96,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\LemeshK1nG\source\repos\MT_lab1\MT_lab1\translator.h(101,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\LemeshK1nG\source\repos\MT_lab1\MT_lab1\translator.cpp(318,44): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\LemeshK1nG\source\repos\MT_lab1\MT_lab1\translator.cpp(324,53): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 994 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  MT_lab1.vcxproj -> C:\Users\LemeshK1nG\source\repos\MT_lab1\x64\Release\MT_lab1.exe
